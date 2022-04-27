@@ -13,6 +13,7 @@ Modified game's [GitHub repository](https://github.com/UOY-ENG1-Team-11/yorkpira
 - [**Home**]() - This page will go over what York Pirates! is, how to play it, and provide information about how the code works.
 - [**Team 14's GitHub**](https://github.com/engteam14/yorkpirates) - The old team's GitHub repository contains all the code for the project as of the end of assessment 1, as well as downloads.
 - [**(Old) Deliverables**](/deliverables) - All the old project deliverables will be listed here.
+- [**(NEW) Deliverables**](/deliverables2) - All the new project deliverables will be listed here.
 - [**(Old) Plan**](/plan) - Information about how the project was planned throughout development is shown here.
 - [**(Old) Use Case**](/usecase) - Shows our planned use case for the game.
 - [**Files**](/files) - Any additional files are listed here.
@@ -55,7 +56,7 @@ In addition to allowing inferior foes to join your ranks (complete with full ima
 ### Game Win!
 ![Game Win](/media/Game_Win.gif)
 <br/>
-Once all the colleges are captured and you are as satisfied with the gameplay experience as you are with our code, return to your home college to win the game (and pick our code to win at life)!
+Once all the colleges are captured, return to your home college to win the game!
 
 <hr/>
 
@@ -120,6 +121,3 @@ Using LibGDX's package for Tiled maps is the easiest way to rapidly produce game
 The software [Tiled](https://www.mapeditor.org) can be used to produce levels, with easy to use wide-ranging functionality, it's the industry's best for a reason!
 <br/><br/>![Tiled](/media/tiled.gif)
 <br/><br/>Maps from Tiled can be easily imported into LibGDX, and we've even implemented our own collision system around it - ready out of the box!
-
-## Now's the best time to go Bass<sup>2</sup>!
-[Check out](https://github.com/engteam14/yorkpirates) our repository on GitHub!

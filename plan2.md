@@ -5,26 +5,26 @@ Information about the planning of the second part of the project can be found he
 
 # Gantt Charts
 
-![Gannt1](/media/Gannt1.png)
+![Gantt1](/media/Gannt1.png)
 *11/02/22*
 
-![Gannt2](/media/Gannt2.png)
+![Gantt2](/media/Gannt2.png)
 *18/02/22*
 
-![Gannt3](/media/Gannt3.png)
+![Gantt3](/media/Gannt3.png)
 *25/02/22*
 
-![Gannt4](/media/Gannt4.png)
+![Gantt4](/media/Gannt4.png)
 *04/03/22*
 
-![Gannt5](/media/Gannt5.png)
+![Gantt5](/media/Gannt5.png)
 *11/03/22*
 
-![Gannt6](/media/Gannt6.png)
+![Gantt6](/media/Gannt6.png)
 *18/03/22*
 
-![Gannt7](/media/Gannt7.png)
+![Gantt7](/media/Gannt7.png)
 *22/04/22*
 
-![Gannt8](/media/Gannt8.png)
+![Gantt8](/media/Gannt8.png)
 *29/04/22*

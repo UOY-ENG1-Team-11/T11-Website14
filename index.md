@@ -16,6 +16,7 @@ Updated game: [download](https://github.com/engteam14/yorkpirates/releases)
 - [**(NEW) Deliverables**](/deliverables2) - All the new project deliverables will be listed here.
 - [**(NEW) Testing**](/testing) - An overview of how the project was tested.
 - [**(Legacy) Plan**](/plan) - Information about how the project was planned throughout development is shown here.
+- [**(NEW) Plan**](/plan) - Information about how the project was planned throughout development in the second half of the assessment is shown here.
 - [**(Legacy) Use Case**](/usecase) - Shows our planned use case for the game.
 - [**(Legacy) Files**](/files) - Any additional files are listed here.
 

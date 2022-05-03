@@ -20,7 +20,7 @@ docs:
   url: /deliverables
   target: _self
 
-  - title: (NEW) Deliverables
+- title: (NEW) Deliverables
   url: /deliverables2
   target: _self
 

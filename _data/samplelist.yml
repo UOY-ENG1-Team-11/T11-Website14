@@ -24,6 +24,10 @@ docs:
   url: /deliverables2
   target: _self
 
+- title: (NEW) Testing
+  url: /testing
+  target: _self
+
 - title: (Legacy) Plan
   url: /plan
   target: _self

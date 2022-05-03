@@ -14,6 +14,7 @@ Updated game: [download](https://github.com/engteam14/yorkpirates/releases)
 - [**Team 11's GitHub**](https://github.com/UOY-ENG1-Team-11/yorkpirates) - The new team's GitHub repository contains updated project code to meet the new project requirements.
 - [**(Legacy) Deliverables**](/deliverables) - All the old project deliverables will be listed here.
 - [**(NEW) Deliverables**](/deliverables2) - All the new project deliverables will be listed here.
+- [**(NEW) Testing**](/testing) - An overview of how the project was tested.
 - [**(Legacy) Plan**](/plan) - Information about how the project was planned throughout development is shown here.
 - [**(Legacy) Use Case**](/usecase) - Shows our planned use case for the game.
 - [**(Legacy) Files**](/files) - Any additional files are listed here.

@@ -8,12 +8,20 @@ docs:
   url: /
   target: _self
 
-- title: GitHub
+- title: Team 14 GitHub
   url: https://github.com/engteam14/yorkpirates
   target: _blank
 
-- title: Deliverables
+- title: Team 11 GitHub
+  url: https://github.com/UOY-ENG1-Team-11/yorkpirates
+  target: _blank
+
+- title: (Old) Deliverables
   url: /deliverables
+  target: _self
+
+  - title: (NEW) Deliverables
+  url: /deliverables2
   target: _self
 
 - title: Plan

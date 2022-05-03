@@ -24,15 +24,15 @@ docs:
   url: /deliverables2
   target: _self
 
-- title: Plan
+- title: (Legacy) Plan
   url: /plan
   target: _self
 
-- title: Use Case
+- title: (Legacy) Use Case
   url: /usecase
   target: _self
 
-- title: Files
+- title: (Legacy) Files
   url: /files
   target: _self
 

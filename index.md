@@ -4,14 +4,14 @@ layout: default
 # York Pirates!
 ## About This Website
 This is the website for the York Pirates! game.
-This game was originally made by Bass<sub>2</sub> (Team 14) for the Engineering 1 module group project at the University of York. For the second half of the assessment, Eleven Musketeers (Team 11) have picked it up to continue developing it.
+This game was originally made by Bass<sub>2</sub> (Team 14) for the Engineering 1 module group project at the University of York. For the second half of the assessment, 11 Musketeers (Team 11) have picked it up to continue developing it.
 
 Original game: [download](https://github.com/engteam14/yorkpirates/releases) 
-
-Modified game's [GitHub repository](https://github.com/UOY-ENG1-Team-11/yorkpirates)
+Updated game: [download](https://github.com/engteam14/yorkpirates/releases) 
 
 - [**Home**]() - This page will go over what York Pirates! is, how to play it, and provide information about how the code works.
 - [**Team 14's GitHub**](https://github.com/engteam14/yorkpirates) - The old team's GitHub repository contains all the code for the project as of the end of assessment 1, as well as downloads.
+- [**Team 11's GitHub**](https://github.com/UOY-ENG1-Team-11/yorkpirates) - The new team's GitHub repository contains updated project code to meet the new project requirements.
 - [**(Legacy) Deliverables**](/deliverables) - All the old project deliverables will be listed here.
 - [**(NEW) Deliverables**](/deliverables2) - All the new project deliverables will be listed here.
 - [**(Legacy) Plan**](/plan) - Information about how the project was planned throughout development is shown here.

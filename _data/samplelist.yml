@@ -32,6 +32,10 @@ docs:
   url: /plan
   target: _self
 
+- title: (NEW) Plan
+  url: /plan2
+  target: _self
+
 - title: (Legacy) Use Case
   url: /usecase
   target: _self

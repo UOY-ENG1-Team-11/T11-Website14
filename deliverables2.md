@@ -10,7 +10,7 @@ Project deliverables (stored via Google Drive) can be accessed from this page.
 [**Download**](https://github.com/UOY-ENG1-Team-11/uoy-eng1-team-11.github.io/raw/main/documents/ChangeRep.pdf)
 
 ## Implementation
-[**Google Drive**]https://docs.google.com/document/d/1y7cwjHtndht1yQBhhCZmkNDXYBE3A8FwambVBrbPKKw/edit?usp=sharing)
+[**Google Drive**](https://docs.google.com/document/d/1y7cwjHtndht1yQBhhCZmkNDXYBE3A8FwambVBrbPKKw/edit?usp=sharing)
 <br/>
 [**Download**](https://github.com/UOY-ENG1-Team-11/uoy-eng1-team-11.github.io/raw/main/documents/Impl2.pdf)
 
@@ -42,6 +42,6 @@ Project deliverables (stored via Google Drive) can be accessed from this page.
 [**Download**](https://github.com/UOY-ENG1-Team-11/uoy-eng1-team-11.github.io/raw/main/documents/Req2.pdf)
 
 ## Risk Assessment & Mitigation
-[**Google Drive**](https://docs.google.com/document/d/1XKxl5es1gGpYUjG7c0omSbT6jIXBHxcOLNOYqf9b_qk/edit?usp=sharing)
+[**Google Drive**](https://docs.google.com/document/d/1uw-CBCur_7gwE97qpMYHmufxoZ2VHB8VulyZ6Sfg8dQ/edit?usp=sharing)
 <br/>
 [**Download**](https://github.com/UOY-ENG1-Team-11/uoy-eng1-team-11.github.io/raw/main/documents/Risk2.pdf)
